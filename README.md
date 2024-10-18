@@ -1,0 +1,1 @@
+This is a command-line banking system implemented in Python. It features user authentication, new account creation, and various banking operations for existing users, such as cash deposit, transfer, and withdrawal. Note that this program does not connect to a sophisticated database management system; data is managed within the program itself.
