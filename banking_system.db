@@ -1,9 +1,0 @@
-import random
-
-def generate_account_number():
-    """
-    Generate a unique 14-digit account number.
-    """
-    base_number = "314151000"
-    random_part = ''.join([str(random.randint(0, 9)) for _ in range(5)])
-    return base_number + random_part
